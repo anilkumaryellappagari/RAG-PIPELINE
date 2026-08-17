@@ -1,0 +1,22 @@
+# Environment
+.env
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/raw/*
+data/processed/*
+
+# Evaluation outputs
+eval/report_*.json
+
+# OS
+.DS_Store
+Thumbs.db
